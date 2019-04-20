@@ -1,0 +1,23 @@
+@media (min-width: 576px) { 
+	table tr td .img-pegawai{
+		width: 40px !important;
+	}
+}
+
+@media (min-width: 768px) { 
+	.img-pegawai{
+		width: 60px;
+	}
+}
+
+@media (min-width: 992px) { 
+	.img-pegawai{
+		width: 70px;
+	}
+}
+
+@media (min-width: 1200px) { 
+	.img-pegawai{
+		width: 75px;
+	}
+}
