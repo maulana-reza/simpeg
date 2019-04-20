@@ -19,3 +19,11 @@ body {
 #profile-name{
    text-align: center;
 }
+.header{
+   color: red;
+   background-color: red;
+   height: 300px;
+   width: 100%;
+   padding-bottom: 10px;
+   padding-top: 10px;
+}
